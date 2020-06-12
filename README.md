@@ -1,2 +1,2 @@
 # edificados.gitub.io
-www.edificados.github.io
+https://edificados.github.io
